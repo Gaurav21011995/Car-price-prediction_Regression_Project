@@ -1,4 +1,4 @@
-PREDICTING CAR PRICE USING MACHINE LEARNING - REGRESSI3N PR0JECT
+PREDICTING CAR PRICE USING MACHINE LEARNING - REGRESSION PR0JECT
 
 • Develop a Model to predict car prices on the basis of given data. Used Data 
 Exploration and Data Cleaning techniques to understand the data better.'
